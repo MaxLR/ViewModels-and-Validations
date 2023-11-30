@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jamin\\OneDrive\\Desktop\\repos\\December_CSharp\\Week1\\4_Thursday\\ViewModels\\ViewModels.csproj",
+      "projectUniqueName": "C:\\Users\\jamin\\OneDrive\\Desktop\\repos\\ViewModels\\ViewModels.csproj",
       "projectName": "ViewModels",
-      "projectPath": "C:\\Users\\jamin\\OneDrive\\Desktop\\repos\\December_CSharp\\Week1\\4_Thursday\\ViewModels\\ViewModels.csproj",
+      "projectPath": "C:\\Users\\jamin\\OneDrive\\Desktop\\repos\\ViewModels\\ViewModels.csproj",
       "packagesPath": "C:\\Users\\jamin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jamin\\OneDrive\\Desktop\\repos\\December_CSharp\\Week1\\4_Thursday\\ViewModels\\obj\\",
+      "outputPath": "C:\\Users\\jamin\\OneDrive\\Desktop\\repos\\ViewModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jamin\\AppData\\Roaming\\NuGet\\NuGet.Config"
